@@ -1,0 +1,5 @@
+package com.schoolmanagement.demo.entity;
+
+public class Student {
+
+}
